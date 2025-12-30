@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14738646430",
+    "project_id": "city-bus-tracker-ec31f",
+    "storage_bucket": "city-bus-tracker-ec31f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14738646430:android:04f6a8bdd28921387ca28f",
+        "android_client_info": {
+          "package_name": "com.example.firstdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPw1ESMyskQKVrjlqhVoQgVW8QQiSPj0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
